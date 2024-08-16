@@ -1,5 +1,5 @@
 :root {
-    --text-01: #5d5d5d;
+    --text-01: #272727;
     --light-01: #ffffff;
     --light-02: #bbb5b5;
     --brand-01: #868686;
@@ -637,7 +637,7 @@ section h2 {
     font-weight: 600;
     line-height: 1.2;
     text-align: center;
-    color: var(--text-01);
+    color: black;
     margin-bottom: 32px;
     /*    padding-bottom: 24px;*/
 }
@@ -671,7 +671,9 @@ section h2 {
     margin-bottom: 16px;
 }
 
-
+.services{
+    color: black;
+}
 .card-wide .subtitle {
     font-size: 14px;
     line-height: 1.4;
