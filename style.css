@@ -353,7 +353,7 @@ a{
     border: none;
     padding: 15px 20px;
     border-radius: 20px;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: large;
 }
 .detail .buttons svg{
