@@ -910,8 +910,9 @@ h1{
 @media (max-width: 1024px) {
 
     .display {
+      position: relative;
+  
         margin-left: 0;
-        margin-top: 2400px;
         text-align: start;
         padding-left: 5px;
     }
@@ -928,7 +929,7 @@ h1{
 
     .display {
         margin-left: 0;
-        margin-top: 2400px;
+        margin-top: auto;
         text-align: start;
         padding-left: 5px;
     }
@@ -945,8 +946,7 @@ h1{
 
     .display {
         margin-left: 0;
-        margin-top: 2400px;
-        text-align: start;
+                text-align: start;
         padding-left: 5px;
     }
 
