@@ -980,19 +980,19 @@ h1{
 }
 .item-1  p {
     width:100%;
-    color: #000000;
+    color: #ffffff;
   }
   .item-2 p {
     width:100%;
-    color: #000000;
+    color: #ffffff;
   }
   .item-3 p {
     width:100%;
-    color: #000000;
+    color: #ffffff;
   }
   .item-4 p {
     width:100%;
-    color: black;
+    color: rgb(255, 251, 251);
   }
   .item-5  p {
     width:100%;
@@ -1667,7 +1667,10 @@ div.tp-dfwv {
     margin-top: 20px;
     margin-right:15px;
    }
-   
+   #bottone1 a{
+    text-decoration: none;
+    color: #000000;
+   }
    #bottone1:hover {
     box-shadow: 7px 5px 56px -14px #d90000;
    }
