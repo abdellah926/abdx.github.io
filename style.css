@@ -1285,7 +1285,10 @@ div.tp-dfwv {
     .button10{
       scale: 0.7;
     }
-   
+    .button100{
+      scale: 0.6;
+
+    }
 }
 
 @media (max-width: 768px) {
@@ -1314,6 +1317,10 @@ div.tp-dfwv {
     .button10{
       scale: 0.7;
     }
+    .button100{
+      scale: 0.6;
+
+    }
 }
 
 @media (max-width: 480px) {
@@ -1337,6 +1344,10 @@ div.tp-dfwv {
     }
     .button10{
       scale: 0.7;
+    }
+    .button100{
+      scale: 0.6;
+
     }
 }
 
@@ -1531,7 +1542,10 @@ div.tp-dfwv {
     left: calc(50% - 4px);
     bottom: calc(100% + var(--gap-between-tooltip-to-button) - 10px);
   }
-  
+  .button100{
+    background: transparent;
+    border: none;
+  }
   .button::after,.button::before {
     opacity: 0;
     visibility: hidden;
