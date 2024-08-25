@@ -1289,6 +1289,10 @@ div.tp-dfwv {
       scale: 0.6;
 
     }
+    .text a {
+      text-decoration: none;
+      color: white;
+     }
 }
 
 @media (max-width: 768px) {
@@ -1321,6 +1325,10 @@ div.tp-dfwv {
       scale: 0.6;
 
     }
+    .text a {
+      text-decoration: none;
+      color: white;
+     }
 }
 
 @media (max-width: 480px) {
@@ -1349,6 +1357,10 @@ div.tp-dfwv {
       scale: 0.6;
 
     }
+    .text a {
+      text-decoration: none;
+      color: white;
+     }
 }
 
 
@@ -1558,6 +1570,9 @@ div.tp-dfwv {
     justify-content: center;
     scale: 0.6;
   }
+  
+
+  
   
   .button-wrapper,.text,.icon {
     overflow: hidden;
@@ -2135,4 +2150,7 @@ div.tp-dfwv {
 
 }
 
-  
+.text a {
+  text-decoration: none;
+  color: white;
+ }
